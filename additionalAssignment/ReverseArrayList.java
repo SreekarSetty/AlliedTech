@@ -1,6 +1,6 @@
 package additionalAssignment;
 
-import java.util.*;
+import java.util.ArrayList;
 
 public class ReverseArrayList
 {
@@ -16,6 +16,9 @@ public class ReverseArrayList
 		al.add(60);
 		al.add(70);
 		al.add(70);
+		
+		
+		
 		
 		System.out.println(al);
 		
